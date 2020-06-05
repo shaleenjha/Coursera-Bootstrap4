@@ -17,3 +17,9 @@ body{
 .footer{
 	background-color: #D8BFD8;
 }
+
+.top-buffer { margin-top:100px; }
+
+.crd-hdr {
+	background-color: #CCCC00;
+}
